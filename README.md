@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="#" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Cookie&size=55&center=true&vCenter=true&width=500&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hey+it's+Sumalka!;+I'm+a+Software++Student.;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Cookie&size=60&center=true&vCenter=true&width=500&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hey+it's+Sumalka!;+I'm+a+Software++Student.;" />
     </a>
 </h1>
 
