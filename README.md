@@ -23,7 +23,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
   <!-- GIF on the right -->
-  <img align="right" height="190" src="https://tenor.com/m84JCSzmh5S.gif"/>
+  <img align="right" height="210" src="https://media.tenor.com/lzb4ce_bNEYAAAAi/gwen-stacy-gwen.gif"/> 
 
   <!-- Icons div to the left of the GIF -->
   <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; max-width: 100%; flex: 1; padding-left: 10px; padding-right: 10px;">
