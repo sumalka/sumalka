@@ -10,8 +10,8 @@
 
 
 <p align="center">
-    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumalka&theme=github_dark" alt="Your GitHub stats" />
-   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumalka&theme=github_dark" />
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumalk&theme=github_dark" alt="Your GitHub stats" />
+   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumalk&theme=github_dark" />
     
 </p>
 
