@@ -112,16 +112,26 @@
 
 <br/>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sumalka.sumalka&left_color=red" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sumalka&color=red" alt="Profile Views" />
+  <a href="https://github.com/sponsors/sumalka" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-2F2F2F.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor me" height="20">
+  </a>
+</p>
+
 
 <br/>
 
 <p align="left" style="display: inline-block;" >
-
 <br/>
-    
 <img height="115em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumalka&theme=github_dark&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
 <!--     <img height="110em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=github_dark&timestamp=12345" style="display: inline-block;"/> -->
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sumalka" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170">
+  </a>
 </p>
 
 
