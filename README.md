@@ -130,7 +130,7 @@
 
 <p align="center">
 </br>
-  <a href="https://www.buymeacoffee.com/sumalka" target="_blank">
+  <a href="https://buymeacoffee.com/sumalka" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170">
   </a>
 </p>
