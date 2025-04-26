@@ -67,7 +67,7 @@
 <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
   <div style="display: flex; justify-content: flex-end; gap: 12px;">
     <!-- GIF -->
-    <img align="right" height="170"             
+    <img align="right" height="160"             
     src="https://media.tenor.com/lzb4ce_bNEYAAAAi/gwen-stacy-gwen.gif" />
   </div>
 </div>
