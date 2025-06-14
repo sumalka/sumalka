@@ -128,14 +128,5 @@
 <!--     <img height="110em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=github_dark&timestamp=12345" style="display: inline-block;"/> -->
 </p>
 
-<p align="center">
-</br>
-  <a href="https://buymeacoffee.com/sumalka" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170">
-  </a>
-</p>
-
-
-
 <br clear="both">
 <img src="https://raw.githubusercontent.com/sumalka/sumalka/output/snake.svg" alt="Snake animation" />
